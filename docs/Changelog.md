@@ -1,6 +1,6 @@
 # Release Log
 
-- 2026-03-11: Released musicdl v2.9.10 — meticulously refactored the core code for Qishui Music, SoundCloud, TIDAL, and Apple Music to support playlist parsing and downloading across these platforms; fixed several existing bugs.
+- 2026-03-11: Released musicdl v2.9.10 — meticulously refactored the core code for Qishui Music, SoundCloud, TIDAL, and Apple Music to support playlist parsing and downloading across these platforms; fixed some bugs.
 
 - 2026-03-10: Released musicdl v2.9.9 — refactored the code for QQ Music, Migu Music, Kugou Music, Kuwo Music, Qianqian Music, NetEase Cloud Music, YouTube Music, JOOX Music, Jamendo Music, Bilibili Music, 5SING Music, and StreetVoice to better support playlist parsing and future feature expansion; also improved the downloadable audio quality for some of the above platforms, such as Jamendo Music; fix some known bugs.
 
