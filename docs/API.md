@@ -108,7 +108,7 @@ Thread settings and request overrides are automatically taken from `MusicClient.
 
 ## `musicdl.modules.sources.BaseMusicClient`
 
-`BaseMusicClient` defines the common workflow for searching, downloading, and playlist parsing across different music sources.  
+`BaseMusicClient` defines the common workflow for searching, downloading, and playlist parsing across different music sources.
 Concrete clients only need to implement the source-specific parsing and URL construction logic, while the base class handles concurrency, progress display, deduplication, working-directory creation, and result serialization.
 To put it simply, `BaseMusicClient` is the abstract base class for all concrete music clients, including,
 
